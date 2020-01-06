@@ -1,3 +1,4 @@
+//this is the board class. It creates a board with stuff on it
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
